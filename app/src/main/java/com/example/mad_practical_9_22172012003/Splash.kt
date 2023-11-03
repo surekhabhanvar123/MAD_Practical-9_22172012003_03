@@ -6,8 +6,7 @@ import android.os.Bundle
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
-//import com.sujalpatel.mad_pr_9_21012021087.MainActivity
-//import com.sujalpatel.mad_pr_9_21012021087.R
+
 
 class SplashActivity : AppCompatActivity() {
     lateinit var logoanimation: AnimationDrawable
